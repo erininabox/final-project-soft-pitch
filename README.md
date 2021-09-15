@@ -1,6 +1,6 @@
 # Final Project Soft Pitch
 
-It's almost time for Final Projects! Before you get started we'd like you to first put together a "soft pitch" or proposal for what you'd like to build.
+Final project time is almost here! Before you can get started we'd like you to first put together a "soft pitch" or proposal for what you'd like to build.
 
 ## What is this project?
 

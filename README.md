@@ -13,7 +13,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 **Most choose to work on this project individually, but you may elect to work in groups.**
 
 ## Project Planning Soft Pitch Deliverables
-Come up with **three project ideas** and answer the following questions for each of them:
+Come up with **two to three project ideas** and answer the following questions for each of them:
 
 1. What is your goal for this project? Please select one or more goals from the recommended goals list below.
 2. Who is the user for your app and how will they use your application? Prepare at least a few stories!

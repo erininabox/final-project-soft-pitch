@@ -29,7 +29,7 @@ Come up with **two to three project ideas** and answer the following questions f
 
 ## Important Dates
 
-* **Friday, September 17th, 2021 - After Mid-day Break** - **"Soft Pitch"** due! Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
+* **Friday, September 17th, 2021 - Ready by Mid-Day Break** - **"Soft Pitch"** due! Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
 
 * **Monday, September 20th, 2021 - Morning** - **"Hard Pitch"** due! For your hard pitch, we'll have you put together a full detailed plan, including your project scope, full user stories, wireframes, ERD, and a feasability study if applicable.
 

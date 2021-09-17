@@ -1,10 +1,11 @@
 # Final Project Soft Pitch
 
-## Idea 1: School Library/Book Manager
-MVP Description: Web app database with full CRUD capabilities, aimed at helping librarians and teachers track individual library items and class sets.
+Priorities for me:
+1. Portfolio anchor - I want to show off my skills and interests, including especially my database work. I really love working with databases so ideally I want to be able to show my ability to work with both MongoDB (done in earlier projects) and SQL (hopefully this project)
+2. I'm aiming at working in EdTech or HealthTech, although anything adjacent to databases would also be great--CRM software, for instance.
 
-Stretch Goals:
-  * Set up a 'reports' function with the ability to 
+## Idea 1: School Library/Book Manager
+MVP Description: Fully responsive web app database with full CRUD capabilities, aimed at helping librarians and teachers track individual library items and class sets.
 
 Goal: I want this to be a polished portfolio piece using the SERN stack
 
@@ -12,25 +13,36 @@ User: K-12 school librarian and teachers
 
 APIs: Google Books API; possibly a barcode scanner API to decode barcodes--this will require additional research
 
-## Project Planning Soft Pitch Deliverables
-Come up with **two to three project ideas** in writing, answering the following three questions for each of them:
+Stretch Goals:
+  * Set up a 'reports' function with the ability to generate pre-defined reports
+  * Set up a place to create your own reports
+  * Librarian-generated content - either as a blog or as a landing page?
+  * Google Calendar API integration (for due dates)
+  * Possibly a barcode scanner API to decode barcodes--this will require additional research
+  * Full login capability using a modern authentication tool (Auth0, OAuth, something else?)
 
-1. What is your goal for this project? Please select one or more goals from the recommended goals list below.
-2. Who is the user for your app and how will they use your application? Prepare at least a few stories!
-3. Are you incorporating any bonus technologies or APIs? If so, how do you plan on learning/implementing these techs?
+## Idea 2: Goodreads/LibraryThing clone
+MVP Description: Responsive web app database with full CRUD capabilities, aimed at consumers who want to track their reading across platforms (e.g., audiobook, ebook, library book) and also their own personal libraries (both digital and paper).
 
-## Recommended Goals:
+Goal: I want this to be a polished portfolio piece that uses MERN (probably)
 
-* **Develop a MERN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express React Node).
+Users: Consumers who want to manage their home libraries and share what they're reading with their friends. Goodreads is all about sharing what you're reading, LibraryThing is all about managing your library--this would do both!
 
-* **Develop a MEN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express Node w/ EJS templates).
+APIs: Google Books; Goodreads if I can get get my hands on an API key; 
 
-* **Polished portfolio piece:** Showcase substantial work in an area of interest by creating a highly polished product that will illustrate your skills, interests, and will be an anchor for your portfolio.
+Stretch Goals:
+  * Login using your other accounts: Google, Amazon, Facebook
+  * Possibly a barcode scanner API to decode barcodes--this will require additional research
 
-## Important Dates
+## Idea 3: Therapist App
+MVP Description: Responsive web app for connecting therapists and clients. Each therapist would have a landing page describing their areas of expertise. Clients would be able to search by multiple properties and bookmark their favorites. 
 
-* **Friday, September 17th, 2021 - "Soft Pitch" due! - Ready by Mid-Day Break** - Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
+Goal: I want this to be a polished portfolio piece.
 
-* **Monday, September 20th, 2021 - "Hard Pitch" due! - Ready in the Morning** - For your hard pitch, we'll have you put together a full detailed plan, including your project scope, full user stories, wireframes, ERD, and a feasability study if applicable.
+Users: Therapists and clients
 
-* **9:30am, Monday, September 27th, 2021** - Project Presentations!
+APIs: none
+
+Stretch Goals:
+  * Clients and therapists would be able to log in and schedule appointments. Integration with Google Calendar or another scheduling API would be great.
+  * Integration with Zoom would be ideal - anything HIPPA Compliant

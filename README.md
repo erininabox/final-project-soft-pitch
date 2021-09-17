@@ -1,16 +1,16 @@
 # Final Project Soft Pitch
 
-Final project time is almost here! Before you can get started we'd like you to first put together a "soft pitch" or proposal for what you'd like to build.
+## Idea 1: School Library/Book Manager
+MVP Description: Web app database with full CRUD capabilities, aimed at helping librarians and teachers track individual library items and class sets.
 
-## What is this project?
+Stretch Goals:
+  * Set up a 'reports' function with the ability to 
 
-**You’ve come a long way, and it's time to show off your skills!**
+Goal: I want this to be a polished portfolio piece using the SERN stack
 
-**You get to call the shots and invent your own idea**, choosing a framework and tools that are appropriate for what you want to build. Use everything you've learned so far, and **tackle something that'll push you a little outside of your comfort zone**.
+User: K-12 school librarian and teachers
 
-Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
-
-**Most choose to work on this project individually, but you may elect to work in groups.**
+APIs: Google Books API; possibly a barcode scanner API to decode barcodes--this will require additional research
 
 ## Project Planning Soft Pitch Deliverables
 Come up with **two to three project ideas** in writing, answering the following three questions for each of them:
